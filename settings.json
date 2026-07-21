@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "arthurzins_server.aternos.me:26964",
+    "ip": "arthurzins_server.aternos.me",
     "port": 26964,
     "version": "",
     "try-creative": false
